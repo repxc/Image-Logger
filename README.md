@@ -6,6 +6,7 @@ Features:
 • Image Pumper.
 
 • Steals Discord Tokens.
+
 • Steals Passwords From Many Browsers.
 
 • Steals Cookies From Many Browsers.
