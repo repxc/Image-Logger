@@ -1,5 +1,6 @@
 # Image-Logger
 Credits to: l4n
+I bet you guys will think this is a virus,if you dont trust me just use your antivirus to scan it.
 Features: 
 • Encode Webhook (Base64)
 
