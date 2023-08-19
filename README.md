@@ -15,9 +15,6 @@ Features:
 
 • Steals Autofills From Many Browsers.
 
-• Steals Minecraft Session Files.
-
-• Steals Telegram Session Files.
 
 • Steals Crypto Wallets.
 
